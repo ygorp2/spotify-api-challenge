@@ -1,7 +1,7 @@
 import { type DefaultSeoProps } from 'next-seo';
 
 const config: DefaultSeoProps = {
-  canonical: 'https://music-api-challenge.vercel.app/',
+  canonical: 'https://spotify-api-challenge.vercel.app/',
   themeColor: '#fafafa',
   robotsProps: {
     notranslate: false,
